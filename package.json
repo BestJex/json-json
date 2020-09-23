@@ -1,5 +1,5 @@
 {
-  "name": "json-json",
+  "name": "json-json-view",
   "version": "1.0.0",
   "description": "json view，Vue json view 组件，可以展示json数据，树状json展示组件，json tree视图，json 表格视图",
   "main": "dist/json-json.min.js",

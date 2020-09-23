@@ -1,4 +1,4 @@
-# json-json
+# json-json-view
 
 用于展示json数据的vue插件，也可以脱离vue使用，轻量、全面，除了常规功能外，可以以列表的形式展示json数组
 
@@ -16,13 +16,13 @@ npm install --save json-json
 <template>
   <div>
     <div style="width:500px;height:600px;">
-      <JsonJson :data="json_string" />
+      <JsonJsonView :data="json_string" />
     </div>
   </div>
 </template>
 
 <script>
-import JsonJson from 'json-json'
+import JsonJsonView from 'json-json-view'
 export default {
   name: 'DocsIndex',
   components: {
