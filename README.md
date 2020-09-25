@@ -4,14 +4,15 @@
 
 
 在线demo或使用：http://json-json.com/json
----
-npm模块整理中，最终可以通过npm install json-json安装
 
 ---
 *快速使用：*
 ```shell script
 npm install --save json-json
 ```
+*效果：*
+![简单示例效果图](doc/json-json.png)
+*实现上图效果的代码：*
 ```vue
 <template>
   <div>
@@ -48,8 +49,7 @@ export default {
 <style lang="scss" scoped>
 </style>
 ```
-*上面代码的效果：*
-![简单示例效果图](doc/json-json.png)
+
 
 
 有问题可以加QQ：3235808353，提bug、提建议、一起交流分享前端开发心得。
